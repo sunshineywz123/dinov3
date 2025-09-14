@@ -16,3 +16,5 @@ dist/
 
 # Ignore vscode directory
 .vscode/
+dinov3_vit7b16_synthmix_dpt_head-02040be1.pth
+dinov3.pth
